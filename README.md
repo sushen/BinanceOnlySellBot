@@ -17,6 +17,7 @@ GMAIL PASSWORD have to app password.
 You have to set the buying price and currency pare.
 
 currency = ''
+
 buyingprice = 
 
 You are ready to go.
