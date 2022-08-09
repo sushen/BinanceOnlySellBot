@@ -69,8 +69,8 @@ class SellingStrategy(RealTimeData):
                 break
 
 
-currency = 'SCRTBUSD'
-buyingprice = 1.301
+currency = 'MULTIBUSD'
+buyingprice = 6.75
 
 ss = SellingStrategy(currency, buyingprice)
 ss.selling_condition()
